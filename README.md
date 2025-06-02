@@ -43,7 +43,7 @@
 ## 🚀 Tech Stack
 
 ### 💻 Full Stack Development
-- **Frontend**: React.js, Redux Toolkit, TypeScript, Tailwind CSS, ShadCN/UI
+- **Frontend**: React.js, Redux Toolkit, TypeScript, CSS, ShadCN/UI
 - **Backend**: Node.js, Express.js, PostgreSQL, MongoDB, REST APIs, JWT Auth
 - **Dev Tools**: Git, GitHub, Postman, Docker, Vercel, Render, Railway
 
