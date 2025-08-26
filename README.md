@@ -21,19 +21,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" height="40" alt="babel logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="40" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
@@ -45,17 +35,13 @@
 ### 💻 Full Stack Development
 - **Frontend**: React.js, Redux Toolkit, TypeScript, CSS, ShadCN/UI
 - **Backend**: Node.js, Express.js, PostgreSQL, MongoDB, REST APIs, JWT Auth
-- **Dev Tools**: Git, GitHub, Postman, Docker, Vercel, Render, Railway
+- **Dev Tools**: Git, GitHub, Postman, Docker, Vercel, Render
 
 ### 🤖 Machine Learning & AI
-- **ML Libraries**: Scikit-learn, XGBoost, Pandas, NumPy, Matplotlib, Seaborn
-- **Deep Learning**: PyTorch (in progress), TensorFlow (beginner)
+- **ML Libraries**: Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
+- **Deep Learning**: PyTorch
 - **Chatbots & LLMs**: LangChain, OpenAI API, RAG, Prompt Engineering
 - **Vector DBs**: Chroma, Pinecone, FAISS (learning)
-
----
-
-## 📂 Featured Projects
 
 ---
 
@@ -70,18 +56,8 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CodingAziz&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CodingAziz&theme=radical" width="48%" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio](#)
 - 💼 [LinkedIn](#)
 - 🐦 [Twitter/X](#)
 
