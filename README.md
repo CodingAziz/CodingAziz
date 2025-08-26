@@ -57,44 +57,6 @@
 
 ## 📂 Featured Projects
 
-### 🧾 Tally Clone  
-> A feature-rich accounting system inspired by Tally ERP  
-**Stack**: MERN (MongoDB, Express, React, Node.js)  
-**Features**: Ledger, Invoicing, Multi-user Auth, Role-based Access  
-🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
-
----
-
-### 🎙️ Riverside Clone  
-> Real-time audio & video collaboration platform with recording support  
-**Stack**: React, Web Audio API, Node.js, PostgreSQL, Socket.io  
-**Features**: Media sync, Real-time latency diagnostics, Recording  
-🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
-
----
-
-### 📊 Smart City Traffic Heatmap  
-> Congestion prediction & visualization using ML and time series forecasting  
-**Stack**: LSTM, Facebook Prophet, Flask, Google Maps API, Kepler.gl  
-**Features**: Predictive congestion mapping, Peak hour analytics  
-🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
-
----
-
-### 🤖 RAG Chatbot with LangChain  
-> Chatbot prototype using RAG pipeline for intelligent Q&A from documents  
-**Stack**: Python, LangChain, ChromaDB, Streamlit, OpenAI API  
-**Features**: Document ingestion, Vector search, Semantic chat  
-🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
-
----
-
-### 🧠 LLM Playground (Planned)  
-> A workspace for fine-tuning, prompt engineering, and deploying small LLMs  
-**Stack**: PyTorch, Hugging Face Transformers, Gradio/Streamlit  
-**Features**: Custom prompts, Dataset uploads, Output tuning  
-🔗 [GitHub Repo](#) | 🌐 [Live Demo](#)
-
 ---
 
 ## 📚 Currently Learning
